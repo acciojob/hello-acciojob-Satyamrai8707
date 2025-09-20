@@ -1,5 +1,3 @@
-
-/* Your CSS Code here. */
 /* Styling for main element */
 main.accio#job {
   width: 150px;
@@ -8,8 +6,8 @@ main.accio#job {
 }
 
 /* Styling for paragraph */
-.hello-accio {
-  color: #ffffff;
+p.hello-accio {
+  color: #ffffff !important;
   margin-left: 32px;
   padding: 10px;
 }
